@@ -3,6 +3,14 @@ Welcome to my portfolio! I am a dedicated data enthusiast and I will be showcasi
 As my portfolio evolves, I look forward to adding diverse projects involving Python, SQL, and other data analysis tools. 
 
 
+#[SQL](https://github.com/KeyganTheGreat/KM_Portfolio/tree/4efa74cd30c96a04e4b8046886f6e45a3cf057cb/SQL) 
+ - Some skills used in this were Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+I have had experience in using SQL within my current job, and have used it previously for my PowerBI visualisations. 
+These projects were short ment to test out different SQL functions.
+[Covid Analysis dataset till 2021](https://github.com/KeyganTheGreat/KM_Portfolio/blob/4efa74cd30c96a04e4b8046886f6e45a3cf057cb/SQL/Covid_Portfolio_1.sql)
+
+
 #[Power BI](https://github.com/KeyganTheGreat/KM_Portfolio/tree/d049f1bbca0e68d3557d97993589fbade16b69d6/PowerBI) 
 
 
