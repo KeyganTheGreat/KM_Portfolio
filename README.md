@@ -11,6 +11,8 @@ These projects were short ment to test out different SQL functions.
  - Some skills used in this were Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 
+
+
 #[Power BI](https://github.com/KeyganTheGreat/KM_Portfolio/tree/d049f1bbca0e68d3557d97993589fbade16b69d6/PowerBI) 
 
 
