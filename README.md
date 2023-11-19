@@ -7,8 +7,8 @@ As my portfolio evolves, I look forward to adding diverse projects involving Pyt
 I have had experience in using SQL within my current job, and have used it previously for my PowerBI visualisations. 
 These projects were short ment to test out different SQL functions.
 
-[Covid Analysis dataset till 2021](https://github.com/KeyganTheGreat/KM_Portfolio/blob/4efa74cd30c96a04e4b8046886f6e45a3cf057cb/SQL/Covid_Portfolio_1.sql)
- - Some skills used in this were Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+ [Covid Analysis dataset till 2021](https://github.com/KeyganTheGreat/KM_Portfolio/blob/4efa74cd30c96a04e4b8046886f6e45a3cf057cb/SQL/Covid_Portfolio_1.sql)
+  - Some skills used in this were Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 
 
